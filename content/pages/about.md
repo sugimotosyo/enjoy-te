@@ -1,8 +1,6 @@
 ---
 template: page
 title: About me
-slug: /pages/about/
-draft: true
 ---
 こんにちは、初めまして。エンジニアの杉本翔平です。
 2011年ITの会社に入社後、Webのエンジニアとして、業務を行っています。
