@@ -2,7 +2,7 @@
 template: page
 title: About me
 ---
-こんにちは、初めまして。エンジニアの杉本翔平です。
+こんにちは、初めまして。エンジニアの杉本翔平です。ええ
 2011年ITの会社に入社後、Webのエンジニアとして、業務を行っています。
 サーバーよりの業務が多かったのですが、最近ではフロント、環境面を含め幅広く業務を行っています。
 
@@ -10,13 +10,10 @@ title: About me
 
 ---
 ## Program
-![java64](/media/java.png)
-![go](/media/Go.png)
-![c](/media/C.png)
-![html5](/media/Html5.png)
-![python](/media/Python.png)
-![node](/media/node.png)
-![vue](/media/Vue.png)
+|  ![java64](/media/java.png)  |  ![go](/media/Go.png)  | ![c](/media/C.png)  | ![html5](/media/Html5.png)  | ![python](/media/Python.png)  | ![node](/media/node.png)  | ![vue](/media/Vue.png)  | 
+| ---- | ---- | ---- | ---- | ---- | ---- | 
+
+
 
 etc...そのほか色々触っています。DB、フレームワーク、環境、ツールなどを入れるとキリがないので、よく触るものだけあげました。
 
