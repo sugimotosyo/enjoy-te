@@ -13,8 +13,12 @@ draft: true
 
 ## スキル
 ![java64](/media/java.png)
-- Go言語
-- Node
-
+![go](/media/Go.png)
+![c](/media/C.png)
+![html5](/media/Html5.png)
+![python](/media/Python.png)
+![node](/media/node.png)
+![vue](/media/Vue.png)
+etc...
 
 
