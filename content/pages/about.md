@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: '0001'
+slug: /pages/about
 draft: true
 ---
 こんにちは、初めまして。エンジニアの杉本翔平です。
