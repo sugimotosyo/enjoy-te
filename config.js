@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Shohei Sugimoto',
+  subtitle: 'enjin blog',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,16 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Shohei Sugimoto',
+    photo: '/photo.png',
+    bio: '初めまして。株式会社エンジョイ 経営戦略部長 杉本です。',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'tanosimitai04@gmail.com',
+      facebook: 'syouhei.sugimoto.5',
+      twitter: 'sugimotosyo',
+      github: 'sugimotosyo'
     }
   }
 };
