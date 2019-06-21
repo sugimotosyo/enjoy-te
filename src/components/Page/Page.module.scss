@@ -16,6 +16,7 @@
     @include margin-bottom(1.45);
   }
 
+
   &__body {
     font-size: $typographic-base-font-size;
     @include line-height(1);
@@ -23,6 +24,22 @@
   }
 
 }
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  background-color: ghostwhite;
+  border:1px solid #333;
+}
+  td {
+  border:1px solid #333;
+}
+
+
+
 
 @include breakpoint-sm {
   .page {

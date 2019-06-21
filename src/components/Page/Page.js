@@ -22,6 +22,7 @@ const Page = ({ title, children }: Props) => {
         </div>
       </div>
     </div>
+
   );
 };
 
