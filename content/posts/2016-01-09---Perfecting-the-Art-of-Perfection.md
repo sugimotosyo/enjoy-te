@@ -1,17 +1,19 @@
 ---
 template: post
-title: testtaro
-slug: /posts/testtaro/
-draft: false
-date: '2016-09-01T23:46:37.121Z'
-description: wwwwww
-category: Design Inspiration
+title: GatsbyJS + Netlify 始めました。
+slug: /posts/GatsbyJSNetlify/
+draft: true
+date: 2019-05-22T01:00:00.000Z
+description: GatsbyJS + Netlify 始めました。
+category: develop
 tags:
   - Handwriting
   - Learning to write
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+知り合いのエンジニアのエンジニアに教えてもらって、GatsbyJSとNetlifyの存在を知りました。
+「すごい！」の一言です。
+以前は静的なページはHTMLで書いて、github pagesに載せるか、Dockerとnginxproxyでサブドメイン貼って、
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
 
