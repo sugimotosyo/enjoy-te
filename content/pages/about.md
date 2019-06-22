@@ -8,17 +8,17 @@ title: About me
 
 ![img](/media/image-2.jpg)
 
----
-### Program
+## Skill
 <table style="">
     <thead>
         <tr style="border:0;">
-            <th style="border:0;"><img src="/media/java.png" alt="java64"></th>
-            <th style="border:0;"><img src="/media/Go.png" alt="go"></th>
-            <th  style="border:0;"><img src="/media/C.png" alt="c"></th>
-            <th style="border:0;"><img src="/media/Html5.png" alt="html5"></th>
-            <th style="border:0;"><img src="/media/Python.png" alt="python"></th>
-            <th style="border:0;"><img src="/media/node.png" alt="node"></th>
+            <th style="border:0;background-color:white;"><img src="/media/java.png" alt="java64"></th>
+            <th style="border:0;background-color:white;"><img src="/media/Go.png" alt="go"></th>
+            <th  style="border:0;background-color:white;"><img src="/media/C.png" alt="c"></th>
+            <th style="border:0;background-color:white;"><img src="/media/Html5.png" alt="html5"></th>
+            <th style="border:0;background-color:white;"><img src="/media/Python.png" alt="python"></th>
+            <th style="border:0;background-color:white;"><img src="/media/node.png" alt="node"></th>
+            <th style="border:0;background-color:white;"><img src="/media/Vue.png" alt="vue"></th>
         </tr>
     </thead>
 </table>
@@ -27,15 +27,18 @@ title: About me
 etc...そのほか色々触っています。DB、フレームワーク、環境、ツールなどを入れるとキリがないので、よく触るものだけあげました。
 
 
----
-### History
-2011/4〜 ソフトウェア興行株式会社 
+## Resume
 
+#### ソフトウェア興行株式会社
+在籍期間:2011/4〜2011/8  
 新卒で入社。会社が政治献金や脱税で倒産したため、研修期間の半年で退社。
 
 
-### 2011/9〜株式会社システムプロデュース
+#### 株式会社システムプロデュース
+在籍期間:2011/9〜2013/10  
 Javaエンジニアとして客先常駐開発。社内プロジェクトとしてAndoridアプリ開発。
+
+<details style="background-color:aliceblue;padding:1em;"><summary>OPEN</summary><p>
 
 #### 官庁会計事務システム(ハード更改プロジェクト,復興庁対応プロジェクト)
 官庁会計システムのWindowsXpからWindows7,Oralce9iからOracle11gへのマイグレーションを対応。
@@ -44,8 +47,6 @@ Javaエンジニアとして客先常駐開発。社内プロジェクトとし�
 | OS   | DB        | PG       | Tool |
 |:------:|:-----------:|:----------:|:------:|
 | UNIX | Oracle11g | VBA<br>COBOL | -    |
-
-
 
 #### ワークフローシステム機能拡張
 マスタ管理業務の機能追加による画面の作成を行う。4画面を担当し、製造から結合テストまでを担当。
@@ -73,9 +74,17 @@ Javaエンジニアとして客先常駐開発。社内プロジェクトとし�
 
 
 
-### 2013/11〜 株式会社エンジョイ
+</p></details>
+
+
+
+
+
+#### 株式会社エンジョイ 
+在籍期間:2013/11〜  
 設立時に入社。客先でエンジニアをしつつ、開発部長、経営戦略部長として社内業務を遂行。また自社パッケージを開発
 
+<details style="background-color:aliceblue;padding:1em;"><summary>OPEN</summary><p>
 
 #### 次世代プロジェクト
 結婚情報誌と結婚情報サイトの機能拡張プロジェクト。基幹システムチームとして、基本設計からシステムテストまでを行う。また、リーダーサポートとして、品質管理と進捗管理を行う。
@@ -107,3 +116,22 @@ Javaエンジニアとして客先常駐開発。社内プロジェクトとし�
 |:------:|:-----------:|:----------:|:------:|
 | Linux | MySQL<br>Cassandra | golang<br>Java1.9<br>Python3<br>Node.js | Vue.js<br>Nuxt.js<br>Echo<br>Django<br>Pivotal   |
 
+
+
+</p></details>
+
+
+
+## Portfolio
+
+
+### 汎用管理アドミンツール
+
+趣味で作成。  
+メインとなるサービス機能は特になく、汎用的に様々なデータを管理するツールです。  
+どんな管理画面にでも存在する、一覧画面、登録画面をテンプレートを設定することで自動で作成し管理することができます。
+管理データを元に、棒グラフ、円グラフ、線グラフを作成することもでき、ダッシュボードへ設定することが可能です。  
+また、ダッシュボードでは外部サイトの埋め込みができるため、確認したい情報を常に参照しやすいようにしました。
+
+![img](/media//portfolio.png)
+※利用には[アカウントの作成](https://enjoy-front.enjoy-dev-dep.com/#/account/create)が必要です。アカウント作成後、確認メールが送付されるので、承認後ログインしてください。
