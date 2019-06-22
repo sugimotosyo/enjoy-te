@@ -134,4 +134,8 @@ Javaエンジニアとして客先常駐開発。社内プロジェクトとし�
 また、ダッシュボードでは外部サイトの埋め込みができるため、確認したい情報を常に参照しやすいようにしました。
 
 ![img](/media//portfolio.png)
-※利用には[アカウントの作成](https://enjoy-front.enjoy-dev-dep.com/#/account/create)が必要です。アカウント作成後、確認メールが送付されるので、承認後ログインしてください。
+
+ID:testtaro1111@yahoo.co.jp  
+PWD:testtaro1111  
+[ログイン画面](https://enjoy-front.enjoy-dev-dep.com/#/account/create)
+
