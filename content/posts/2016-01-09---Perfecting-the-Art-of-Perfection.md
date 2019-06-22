@@ -13,7 +13,7 @@ tags:
 
 知り合いのエンジニアのエンジニアに教えてもらって、GatsbyJSとNetlifyの存在を知りました。
 「すごい！」の一言です。
-以前は静的なページはHTMLで書いて、github pagesに載せるか、Dockerとnginxproxyでサブドメイン貼って、
+以前は静的なページはHTMLで書いて、github pagesに載せるか、Dockerとnginxproxyでサブドメイン貼って、サーバー立ててやったりしてましたが、GatsbyJSとNetlifyの存在をしり使ってみました。
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
 
