@@ -1,7 +1,7 @@
 ---
 template: post
-title: GatsbyJS + Netlify 始めました。
-slug: /posts/GatsbyJSNetlify/
+title: GatsbyJS + Netlify(1)
+slug: /posts/GatsbyJSNetlify1/
 date: 2019-05-22T01:00:00.000Z
 description: GatsbyJS + Netlify 始めました。
 category: develop
@@ -36,5 +36,3 @@ tags:
 表示されているURLへアクセスしてみると、ちゃんとHTTPSで画面が表示されるはず。
 ![img](/media/contents/page1/sc03.png)
 なるほど、これは簡単
-
-
