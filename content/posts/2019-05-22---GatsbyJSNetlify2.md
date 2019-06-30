@@ -2,7 +2,7 @@
 template: post
 title: GatsbyJS + Netlify(2)
 slug: /posts/GatsbyJSNetlify2/
-draft: true
+draft: false
 date: 2019-05-22T01:00:00.000Z
 description: GatsbyJS + Netlify で立てたサイトにカスタムドメインにサブドメインを設定する。
 category: develop

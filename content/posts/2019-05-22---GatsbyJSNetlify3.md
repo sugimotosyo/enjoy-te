@@ -2,7 +2,7 @@
 template: post
 title: GatsbyJS + Netlify(3)
 slug: /posts/GatsbyJSNetlify3/
-draft: true
+draft: false
 date: 2019-05-22T01:00:00.000Z
 description: GatsbyJS + Netlify で立てたサイトをローカルでいじくる。
 category: develop
