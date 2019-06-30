@@ -2,6 +2,7 @@
 template: post
 title: GatsbyJS + Netlify(1)
 slug: /posts/GatsbyJSNetlify1/
+draft: true
 date: 2019-05-22T01:00:00.000Z
 description: GatsbyJS + Netlify 始めました。
 category: develop
