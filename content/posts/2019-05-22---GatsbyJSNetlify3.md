@@ -37,24 +37,25 @@ gatsby-cliをインストールしてnpmするだけ
 
 
 ## かゆいところをかきむしる
-1. まず、iconのおじさんを自分のものにする
+1. まず、iconのおじさんを自分のものにする  
 public/photo.pngを変えればOK
 
-2. Contact me ? いらない。
+2. Contact me ? いらない。  
 grepして消す。
 
-3. telegram? rss? vkontakte? いらない
+3. telegram? rss? vkontakte? いらない  
 grepして消す。その際facebookへのリンクは使えるらしいので、facebookをそのほかと同様に記載しておく
 
-4. title: 'Blog by John Doe',?いらない
+4. title: 'Blog by John Doe',?いらない  
 config.js周りを自分に合わせる。
 
-5. about meはCMSで編集できないので編集しちゃう。
+5. about meはCMSで編集できないので編集しちゃう。  
 content/pages/about.mdを編集
+
 
 こんなところでOKあとはmasterにマージすればデプロイされるので、デプロイしちゃう。
 
 
 ## CMS
-host/adminでWeb上での編集ができるらしい。普段記事を書くときはここからでOKだけど、
+host/adminでWeb上での編集ができるらしい。普段記事を書くときはここからでOKだけど、  
 画像のアップロードがめんどくさい。
