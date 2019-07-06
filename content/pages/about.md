@@ -139,3 +139,17 @@ ID:testtaro1111@yahoo.co.jp
 PWD:testtaro1111  
 [ログイン画面](https://enjoy-front.enjoy-dev-dep.com/#/account/create)
 
+
+### バチェラーカード
+
+趣味で作成。  
+2019年秋から始まるバチェラー3シーズンに向けたツールです。  
+私自身バチェーラーが好きで、シーズン1、シーズン2を観ている際に、こんなのがあったらもっと楽しめると思ったので、作ってみました。  
+メンバーの見た目、性格、バチェラーとの相性を個人的に評価する機能と、並び替え可能にすることで、ランキング付け可能にしました。  
+技術的には認証とストレージはfirebaseに任せ、デプロイはNetlifyに任せ、フロントはNuxe.jsで実装しています。
+
+![img](/media//portfolio02.png)
+
+ID:ご自身のSNSアカウントをご利用ください。
+
+[ログイン画面](https://affectionate-ardinghelli-ab220f.netlify.com/)
