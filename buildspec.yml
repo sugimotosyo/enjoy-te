@@ -18,7 +18,7 @@ phases:
   post_build:
     commands:
       - echo 'Start post_build phase'
-      - cat ./node_modules/.bin/gulp
+      - ls public
       - echo '------'
       - ./node_modules/.bin/gulp deploy
       # - ./deploy.sh

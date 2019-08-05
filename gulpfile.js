@@ -20,7 +20,7 @@ const config = {
   },
 
   // 適切なデフォルト値 - これらのファイル及びディレクトリは gitignore されている
-  distDir: 'dist',
+  distDir: 'public',
   indexRootPath: true,
   cacheFileName: '.awspublish',
   concurrentUploads: 10,
