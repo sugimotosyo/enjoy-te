@@ -14,12 +14,12 @@ phases:
   build:
     commands:
       - echo 'Start build phase'
-      - yarn build
+      # - yarn build
       # - npm run deploy
   post_build:
     commands:
       - echo 'Start post_build phase'
       - ls public
       - echo '------'
-      - ./node_modules/.bin/gulp deploy
-      # - ./deploy.sh
+      # - ./node_modules/.bin/gulp deploy
+      - ./deploy.sh
