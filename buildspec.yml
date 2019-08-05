@@ -22,4 +22,4 @@ phases:
       - echo '------'
       # - ./node_modules/.bin/gulp deploy
       - ./deploy.sh
-      - ls public
+      - ls -la public
