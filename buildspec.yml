@@ -14,8 +14,8 @@ phases:
   build:
     commands:
       - echo 'Start build phase'
-      # - yarn build
-      - npm run deploy
+      - yarn build
+      # - npm run deploy
   post_build:
     commands:
       - echo 'Start post_build phase'
