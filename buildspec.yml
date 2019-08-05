@@ -19,7 +19,7 @@ phases:
   post_build:
     commands:
       - echo 'Start post_build phase'
-      - ls public
       - echo '------'
       # - ./node_modules/.bin/gulp deploy
       - ./deploy.sh
+      - ls public
